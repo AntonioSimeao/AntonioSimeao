@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/antonio-sime%C3%A3o-278235191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-    ![snake gif](https://github.com/AntonioSimeao/AntonioSimeao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AntonioSimeao/AntonioSimeao/blob/output/github-contribution-grid-sanek.svg)
