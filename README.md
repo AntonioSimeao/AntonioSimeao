@@ -1,16 +1,22 @@
-### Hi there 👋
+<div style="display: flex;">
+  <a href="https://github.com/AntonioSimeao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioSimeao&show_icons=true&theme=dark">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=16&theme=dark">
+</div>
 
-<!--
-**AntonioSimeao/AntonioSimeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block;"><br>
+  <img align="center" height="30" alt="Antonio-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" height="30" alt="Antonio-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" height="30" alt="Antonio-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" alt="Antonio-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" alt="Antonio-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="30" alt="Antonio-Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" height="30" alt="Antonio-Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" alt="Antonio-MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/antonio-sime%C3%A3o-278235191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
