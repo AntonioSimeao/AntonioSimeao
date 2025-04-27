@@ -1,7 +1,6 @@
-<div align="center">
+<div style="display: flex;">
   <a href="https://github.com/AntonioSimeao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <br>
