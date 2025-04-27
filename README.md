@@ -1,21 +1,28 @@
-<div style="display: flex;">
+<div align="center">
   <a href="https://github.com/AntonioSimeao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=10&theme=tokyonight"/>
+  </a>
 </div>
 
-<div style="display: inline-block;"><br>
-  <img align="center" height="30" alt="Antonio-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" height="30" alt="Antonio-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" height="30" alt="Antonio-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" alt="Antonio-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" alt="Antonio-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="30" alt="Antonio-Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" height="30" alt="Antonio-Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" height="30" alt="Antonio-MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
+<br>
+
+<div align="center">
+  <img align="center" alt="Antonio-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Antonio-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Antonio-Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="center" alt="Antonio-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Antonio-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Antonio-Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Antonio-Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Antonio-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Antonio-Redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
+  <img align="center" alt="Antonio-RabbitMQ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-  ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/antonio-sime%C3%A3o-278235191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/antoniosimeao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
