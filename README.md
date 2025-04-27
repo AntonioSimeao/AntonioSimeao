@@ -1,16 +1,9 @@
 <div align="center">
   <a href="https://github.com/AntonioSimeao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=10&theme=dark"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSimeao&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/AntonioPlatech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPlatech&layout=compact&langs_count=10&theme=dark"/>
-  </a>
-</div>
 
 <div align="center">
     <img align="center" alt="Antonio-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
