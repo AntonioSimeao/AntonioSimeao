@@ -33,7 +33,7 @@
 ### 📊 Weekly Coding Stats (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,5 +106,5 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/AntonioSimeao/AntonioSimeao/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 00:51:29 UTC
+ Last Updated on 16/09/2025 00:45:12 UTC
 <!--END_SECTION:waka-->
