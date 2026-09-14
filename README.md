@@ -33,9 +33,9 @@
 ### 📊 Weekly Coding Stats (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C503%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -76,43 +76,46 @@ Sunday                   52 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 21 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.46 % 
-Other                    3 hrs               ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.05 % 
-Kotlin                   2 hrs 55 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.47 % 
-Markdown                 42 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.46 % 
-HTTP Request             25 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.64 % 
+Java                     7 hrs 21 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.21 % 
+Other                    3 hrs               ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.49 % 
+Kotlin                   2 hrs 55 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.98 % 
+Markdown                 1 hr 54 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.47 % 
+Lua                      46 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.24 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 33 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.41 % 
-IntelliJ IDEA            6 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.70 % 
-VS Code                  2 hrs 3 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.96 % 
-Postman                  56 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.93 % 
+Codex Vscode             7 hrs 32 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.28 % 
+IntelliJ IDEA            6 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.36 % 
+VS Code                  2 hrs 24 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.16 % 
+Claude Code              1 hr 6 mins         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.08 % 
+Postman                  56 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.13 % 
 
 💻 Operating System: 
-Mac                      12 hrs 18 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.75 % 
-Windows                  3 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.25 % 
+Mac                      14 hrs 45 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.74 % 
+Windows                  3 hrs 31 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (60.15%)
+⏱ AI Coding Time: 11 hrs 58 mins (65.51%)
 
-✍️ 1,675 lines written by AI, 70 lines written by hand (95.99% AI-written)
+✍️ 4,527 lines written by AI, 70 lines written by hand (98.48% AI-written)
 
-🔤 4,441,427 Input Tokens, 464,929 Output Tokens
+🔤 5,763,390 Input Tokens, 721,630 Output Tokens
 
-💵 $61.01 Estimated AI Cost This Week
+💵 $143.92 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 145 AI Prompts
+🧠 41 AI Sessions, 176 AI Prompts
 
-GPT                      1,714 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      3,815 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   82.88 % 
+Opus                     711 lines           ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.45 % 
+Codex-Vscode             77 lines            ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.99% of written lines came from AI
-📚 Verbose Prompter — average 17,853 characters per prompt
+🤖 AI-Driven — 98.48% of written lines came from AI
+📚 Verbose Prompter — average 18,147 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.27% of changed lines were hand-edited
+🚀 High AI Trust — 2.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,5 +135,5 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/AntonioSimeao/AntonioSimeao/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 03:14:32 UTC
+ Last Updated on 14/09/2026 03:27:03 UTC
 <!--END_SECTION:waka-->
