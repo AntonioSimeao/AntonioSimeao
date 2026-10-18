@@ -33,9 +33,9 @@
 ### 📊 Weekly Coding Stats (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-502%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-503%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -76,46 +76,46 @@ Sunday                   52 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 34 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.46 % 
-Markdown                 1 hr 38 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.97 % 
-Kotlin                   1 hr 36 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 % 
-TypeScript               1 hr 29 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.67 % 
-Other                    1 hr 14 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.26 % 
+Java                     2 hrs 39 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.68 % 
+Other                    1 hr 36 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.56 % 
+Kotlin                   1 hr 34 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.24 % 
+Markdown                 17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.88 % 
+TypeScript               17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.84 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 48 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.85 % 
-Claude Code              3 hrs 54 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.61 % 
-VS Code                  1 hr 2 mins         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.55 % 
-IntelliJ IDEA            54 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.34 % 
-Postman                  17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.65 % 
+Codex Vscode             5 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   69.82 % 
+IntelliJ IDEA            58 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.17 % 
+VS Code                  48 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.77 % 
+Postman                  17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.89 % 
+Claude Code              10 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.34 % 
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   70.57 % 
-Windows                  3 hrs 13 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.43 % 
+Mac                      4 hrs 25 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.29 % 
+Windows                  3 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 5 mins (83.08%)
+⏱ AI Coding Time: 5 hrs 36 mins (75.34%)
 
-✍️ 6,152 lines written by AI, 131 lines written by hand (97.92% AI-written)
+✍️ 3,559 lines written by AI, 20 lines written by hand (99.44% AI-written)
 
-🔤 4,035,410 Input Tokens, 568,129 Output Tokens
+🔤 1,526,639 Input Tokens, 244,410 Output Tokens
 
-💵 $88.61 Estimated AI Cost This Week
+💵 $48.43 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 117 AI Prompts
+🧠 13 AI Sessions, 88 AI Prompts
 
-GPT                      3,354 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.45 % 
-Opus                     2,806 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.55 % 
+GPT                      3,400 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   95.32 % 
+Opus                     167 lines           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.92% of written lines came from AI
-📄 Detailed Prompter — average 928 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.44% of written lines came from AI
+📝 Concise Prompter — average 436 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,5 +135,5 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/AntonioSimeao/AntonioSimeao/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 03:03:03 UTC
+ Last Updated on 18/10/2026 03:05:36 UTC
 <!--END_SECTION:waka-->
